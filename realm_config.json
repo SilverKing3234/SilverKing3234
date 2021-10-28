@@ -1,0 +1,8 @@
+{
+    "app_id": "oakpine-umdke",
+    "config_version": 20210101,
+    "name": "OakPine",
+    "location": "US-VA",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}
